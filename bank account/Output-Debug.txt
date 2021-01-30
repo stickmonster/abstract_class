@@ -1,0 +1,12 @@
+﻿'bank account.exe' (Win32): Loaded 'C:\Users\katie\source\repos\bank account\Debug\bank account.exe'. Symbols loaded.
+'bank account.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'bank account.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'bank account.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Symbols loaded.
+'bank account.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+'bank account.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'bank account.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+The thread 0x27c8 has exited with code 0 (0x0).
+The thread 0x3e8c has exited with code -1073741510 (0xc000013a).
+The thread 0x3e3c has exited with code -1073741510 (0xc000013a).
+The thread 0x71c8 has exited with code -1073741510 (0xc000013a).
+The program '[32324] bank account.exe' has exited with code -1073741510 (0xc000013a).

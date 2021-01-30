@@ -1,0 +1,4 @@
+﻿1>------ Rebuild All started: Project: bank account, Configuration: Debug Win32 ------
+1>bank account.cpp
+1>bank account.vcxproj -> C:\Users\katie\source\repos\bank account\Debug\bank account.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
